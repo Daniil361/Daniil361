@@ -8,7 +8,7 @@
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dvp060592@gmail.com)
 
 ---
-### 👩‍💻 Моё резюме (https://drive.google.com/file/d/1ZbGv-K27HxzPt8MzOmp_gBYUQFoXFelR/view?usp=sharing)
+### 👩‍💻 [Моё резюме] (https://drive.google.com/file/d/1ZbGv-K27HxzPt8MzOmp_gBYUQFoXFelR/view?usp=sharing)
 
 ---
 
